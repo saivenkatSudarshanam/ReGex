@@ -1,1 +1,3 @@
-# ReGex
+Sentiment Analysis, also called Opinion Mining, is a useful tool within natural language processing that allow us to identify, quantify, and study subjective information. Due to the fact that quintillion of bytes of data is produced every day, this technique gives us the possibility to extract attributes of this data such as negative or positive opinion about a subject, also information about which subject is being talked about and what characteristics hold the persons or entities expressing that opinion.
+
+Twitter has been growing in popularity and nowadays, it is used every day by people to express opinions about different topics, such as products, movies, music, politicians, events, social events, among others. 
